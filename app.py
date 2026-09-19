@@ -254,14 +254,14 @@ if selected_region == PLACEHOLDER:
         <div class="mission-box">
           <p>The Indigenous Language Hub was built by Divergent Engines, a technical solutions company based in Houghton, Michigan. It has one purpose: preserve the languages of our people. Too much has already been lost or taken. We keep what can still be gathered from public-domain records and community-verified lexicons.</p>
           <p>This app is free. It will stay free. No subscription. No lock on the words. No paywall ever.</p>
-          <p>Choose a language in the sidebar to open its lexicon. You will find links to living speakers and a complete glossary for every language. Under Mobile Access, scan the QR code or use the link to add the Hub to your phone as an app.</p>
+          <p>Choose a language in the sidebar to open its lexicon. You will find links to living speakers and a complete glossary for every language.</p>
         </div>
         """,
         unsafe_allow_html=True,
     )
     
     st.subheader("Mobile Access")
-    st.write("Scan the QR code or use the link below to add the Hub directly to your phone as a native app.")
+    st.write("Scan the QR code or use the link below to add the Hub directly to your phone as an app.")
     deployment_url = os.environ.get(
         "HUB_PUBLIC_URL",
         "https://divergent-engines-language-translator.streamlit.app",
