@@ -241,7 +241,7 @@ if selected_region == PLACEHOLDER:
           Too much has already been lost or taken, we must preserve our language.
           What can still be gathered from public-domain records and community-verified lexicons you will find here. </p>
           <p>This app is free. It will stay free. No subscription. No lock on the words. No paywall ever.</p>
-          <p>Choose a language in the sidebar to open its lexicon, you will also find links to the living speakers, and a complete glossary for every language. It is downloadable as an app under the mobile access tab, simply select download as an app and it will function just like any other app. </p>
+          <p>Choose a language in the sidebar to open its lexicon, you will also find links to the living speakers, and a complete glossary for every language. Under the mobile access tab, scan the QR code or use the link to add it to your phone as an app. </p>
         </div>
         """,
         unsafe_allow_html=True,
