@@ -111,6 +111,21 @@ region_map = {
             "exist; living Virginia tribes keep new teaching audio in their own programs."
         ),
     },
+    "Skarù·ręʔ (Tuscarora)": {
+        "db": "tuscarora_dictionary.db",
+        "col": "tuscarora_word",
+        "short": "Tuscarora",
+        "audio_sites": [],
+        "blurb": (
+            "Skarù·ręʔ is an Iroquoian language — kin to Mohawk, Oneida, Onondaga, "
+            "Cayuga, and Seneca, not to Ojibwe or Powhatan. Its homeland was the "
+            "rivers of eastern North Carolina. After the Tuscarora War many families "
+            "walked north and became the sixth nation of the Haudenosaunee, in what "
+            "is now New York and Ontario. This module is William Chew’s 1846 "
+            "vocabulary printed by Schoolcraft: a short historical list, not Blair "
+            "Rudes’s modern dictionary and not a classroom standard of the Nation."
+        ),
+    },
     "Chahta (Choctaw)": {
         "db": "choctaw_dictionary.db",
         "col": "choctaw_word",
@@ -182,6 +197,7 @@ SOURCES = [
     ("Anishinaabemowin (modern)", "Ojibwe People's Dictionary, University of Minnesota. Living lexicon and speaker audio. We link to their site; we do not copy their sound files."),
     ("Anishinaabemowin (historical)", "Frederic Baraga, A Dictionary of the Otchipwe Language (1878). Public domain."),
     ("Powhatan", "Captain John Smith (1612/1624) and William Strachey, A Dictionarie of the Indian Language (1612, pub. 1849). Public domain colonial records."),
+    ("Tuscarora", "William Chew vocabulary, written out by Rev. Gilbert Rockwood, in Henry R. Schoolcraft, Notes on the Iroquois (1846). Public domain. Not the copyrighted Rudes 1999 dictionary."),
     ("Chahta", "Cyrus Byington, A Dictionary of the Choctaw Language, ed. Swanton & Halbert, BAE Bulletin 46 (1915). Public domain. Living audio belongs to the Mississippi Band of Choctaw Indians and the Choctaw Nation of Oklahoma."),
     ("Mvskoke", "R. M. Loughridge and David M. Hodge, English and Muskokee Dictionary (1890). Public domain."),
     ("Massachusett / Natick", "James Hammond Trumbull, Natick Dictionary, BAE Bulletin 25 (1903), drawn from John Eliot’s 1663 Bible. Public domain. Living reclamation: Wôpanâak Language Reclamation Project."),
