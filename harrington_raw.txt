@@ -1,0 +1,3048 @@
+
+
+===== PAGE 1 =====
+SMITHSONIAN INSTITUTION
+Bureau of American Ethnology
+Bulletin 157
+Anthropological Papers, No. 46
+The Original Strachey Vocabulary of the Virginia
+Indian Language
+By JOHN P. HARRINGTON
+189
+265191—54 21
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+CONTENTS
+PAGE
+Introduction 193
+Facsimile reproduction of Strachey's vocabulary 196
+Semantically classified lists of Strachey's vocabulary 197
+Literature cited 202
+191
+
+
+===== PAGE 4 =====
+
+
+===== PAGE 5 =====
+THE ORIGINAL STRACHEY VOCABULARY OF THE
+VIRGINIA INDIAN LANGUAGE
+By John P. Harrington
+INTRODUCTION
+It will be a matter of surprise to many people that the original
+manuscriptbyWilUam Strachey, written probably about 1612, entitled
+"Historie of Travaile into Virginia Britannia . . .," terminated by
+the large vocabulary of the Virginia Indian language, the tongue
+spokenbyPowhatanand Pocahontas, has lain at the Bodleian Library,
+Oxford, England, all these years and has never been published in full
+and correct;form. A somewhat divergent copy, in the possession of
+the British Museum, was published by the Hakluyt Society in 1849,
+and this has taken away attention^from the^original. The present
+paper centers interest on the vocabulary which appears at the end of
+the Strachey manuscript at the Bodleian Library, and which fills
+15 double-column sheets of legal size.
+Little is known of the life of WiUiam Strachey beyond his being a
+"Gentleman of London," who sailed on his only voyage to Virginia
+in the summer of 1611 and was shipwrecked on one of the Bermuda
+Islands, yet reached the newly established colony of Jamestown, Va.,
+later in the same year. He was Secretary of the Jamestown colony
+for part of 1611, all of 1612, and part of 1613, terminating his secretary-
+ship in 1613 by returning to England. It is on record that a man
+who was perhaps the son of William Strachey emigrated to Virginia.
+Strachey's Indian vocabulary was made—as a similar and much
+smaller one had been made by Capt. John Smith a few years before
+—
+in connection with the writing of a book on Virginia. While in the
+capacity of Secretary of the Jamestown colony, Strachey evidently
+interviewed one ormore Indians and from themproduced a vocabulary
+of some 800 entries; one of the best features of this vocabulary is
+that some of the words are written twice with different orthographies,
+thus hinting at what the pronunciation may have been. It is not
+known whether Strachey wrote his book in Virginia or in England, but
+the linguistic materials for it were certainly obtained in Virginia.
+The present facsimile edition of the vocabulary is published with the
+kind permission of the Director of the Bodleian Library, facsimile
+reproduction having been chosen so as to present the original forms
+to the reader, thereby eliminating as far as possible the element of
+193
+
+
+===== PAGE 6 =====
+194 BUREAU OF AMERICAN ETHNOLOGY [Bull. 157
+error involved in transliteration. The Strachey vocabulary is by
+far the largest ever made of the now long extinct Virginia Indian
+language,
+Strachey's work had been preceded by that of two other men.
+It was also followed by that of two other men who took down words
+from the lips of Virginia Indians. AU other recordings appear to be
+secondary. Thus there are five records of source material in the
+Virginia Indian language. The recorders besides Strachey were
+White, Smith, a nameless recorder, and Dalrymple, Strachey oc-
+cupying an intermediate chronological position, between Smith and
+the anonymous record maker. Brief accounts of the recorders
+follow
+:
+1. White.—Sir Walter Raleigh sent first an exploratory expedition
+to what is now the coast of North Carolina before sending a colony.
+In 1584 Raleigh fitted out two vessels, one under the captainship of
+one Armidas, the other under the captainship of one Barlow, and
+sent them across the Atlantic Ocean to explore. The ships returned
+to England in September of the same year. In 1585 Raleigh sent a
+ship of colonists who settled on Roanoke Island, but returned to
+England with Drake in 1586. In 1587 Raleigh sent another ship with
+colonists to Roanoke Island. John White, who was a prominent
+"Gentleman of London" and friend of Raleigh's, and a natural-
+history artist, sailed on the voyage of 1587, and again on the voyage
+of 1590, when he was proclaimed governor. His watercolors of
+fishes and birds, accompanied to a large extent by Virginia Indian
+names, have comedown to us, preserved at the British Museum. The
+Indian names comprise 37 in all; 17 of these are names of fishes and
+20 are names of birds. An article about the White watercolors by
+Edward E. Hale (1860) gives White's animal names.
+Roanoke Island is on the North Carolina coast, where it is shel-
+tered by an outer chain of islands; it is separated from the mainland
+by Croatan Sound. Roanoke Island is 10 miles long by 3 miles wide.
+Just north of it is Albermarle Sound, into which flows the Roanoke
+River, rising in Virginia.
+2. Smith.—Capt. John Smith was evidently with the Jamestown
+Colony from its foundation in 1607. His book published at Oxford
+in 1612, contains, prefaced to it, his famous vocabulary of the Virginia
+Indian language. He probably took down the vocabulary in 1608,
+the year in which he became head of the colony. The Virginia
+Indian words published by Smith are speUed entirely diff'erently from
+those later recorded by Strachey. Smith's map has many names of
+places that have linguistic value.
+S. Strachey.—Unlike the vocabulary by Smith, which was pub-
+Hshed about 4 years after it was recorded, that by Strachey was
+
+
+===== PAGE 7 =====
+Noi^feT^'
+^"^^^ ORIGINAL STRACHEY VOCABULARY—HARRINGTON 195
+destined to lie long unpublished: its British Museum version being
+published 239 years after it was recorded, the present version still
+later.
+If.. Anonymous.—In a collection of the Lord's Prayer published in
+Livonia (Bergmann, 1789) there appears a Lord's Prayer version in
+the Virginia Indian language. Who did the recording, where it was
+done, and when are unknown. The source is not stated; surely it
+was not from White, Smith, or Strachey, but was probably subse-
+quent to these.
+5. Dalrymple.—In 1844 the Reverend Mr. Dalrymple, whose first
+name or initials are not known, took down a short vocabulary of the
+language of the Pamunkey Indians, in Virginia. A person writing
+under the initials "C. C." (1858, p. 182) published this vocabulary 14
+years later. It consists of 17 words; last are the terms for the nu-
+merals 1 to 10 with the exception of the term for 9, which evidently
+could not be remembered. The words of this vocabulary almost
+without exception accord with the Virginia Indian language else-
+where on record, or with the Delaware language.
+The Virginia Indian language recorded by Strachey and others
+is now known to belong to the Algonquian linguistic stock. W. R.
+Girard was the first to notice that it exhibits features which remind
+one of Cree, an Algonquian Indian language of eastern Canada.
+But actually the Virginia Indian language is merely a dialect of
+Delaware. Almost every word can be found in the standard diction-
+ary of the so-called Delaware language (Brinton and Anthony, 1888).
+A paper has been published (Siebert, 1931, pp. 288-303) which shows
+that although the Virginia Indian language is like Cree in having
+dk and xk fall together to become sk, there is agreement of the Virginia
+language with several other Algonquian languages in that original
+xp appears as hp, while in Cree it becomes sp.
+There existed, no doubt, dialects in the Virginia Indian language,
+but the extant material is entirely inadequate for determining the
+nature and extent of these.
+The personal names "Powhatan" and "Pocahontas" do not appear
+as entries in the Strachey vocabulary. How the Indians pronounced
+these names is not known; however, certain interesting facts about
+each of the names can be worked out from sources. That Capt.
+John Smith's pronunciation had the accent on the last syllable of the
+name Powhatan is shown by a poem contained in one of Smith's
+books, a hne of which reads: "Didst make proud Powhatan his
+fubjects fend." That the etymology of the name Powhatan is
+not "place of the waterfalls" is shown by Strachey's giving the name
+"Paquachowng" for the waterfalls at theupper end of theJames River.
+This name sounds very different from the name Powhatan, It is
+
+
+===== PAGE 8 =====
+196 BUREAU OF AMERICAN ETHNOLOGY [Bull. 157
+recorded in Virginia history that the residence of Powhatan was on
+what is now called Mayo Hill, situated about a mile up the James
+River from Mayos Bridge; both of these places are in the city of
+Richmond, Va. The James Riverbecomes choked with small islands
+at the vicinity, which is the head of navigation.
+In the text of Strachey's manuscript, the name Pocahontas is stated
+to mean "the httle wanton." The name is possibly to be connected
+with Strachey's "Pocohaac," awl, penis.
+FACSIMILE REPRODUCTION OF THE STRACHEY VOCABULARY
+Several of the entries of the Strachey vocabulary have ethnological
+as well as linguistic interest. Among these are one personal name,
+Nanamachavwk, the name of the Roanoke chief, and three place
+names: Chessiopiock, Chesapeake Bay; Paquachowng, the waterfalls
+at the end of the James River; Tfenakcommacah, Virginia.
+Strachey's handwriting was peculiar to his contemporaries, and
+is to us still more so. It is very unfortunate that although the
+decipherment of the Indian words is so important, the reading of some
+of the letters is difficult and sometimes impossible with certainty.
+Strachey's handwriting, like that of his contemporaries, uses capital
+and smaU letter forms. On the whole, his capital letter forms are
+easier to read than his small ones. He makes two forms of capital A,
+one like the printed form, and one having the form of small a, which
+varies in tallness so that one cannot be certain what is intended for
+capital and what is not. Capital C has two forms : one like a circle
+with a Greek cross inside of it, and one like a smaU c made larger.
+Capital F also has two forms: one like the printed capital and one
+which looks like a doubled small /. Capital T has two forms : one
+like a printed capital J, and one like a capital c with a horizontal
+bar at its top. The small a sometimes looks like a small u. Small i,
+TO, n, and u are especially hard to decipher. The "long f" occurs
+mostly between vowels and not finally in words, and small n and u
+are mademuch the same, very occasionally a macron being put over n
+to distinguish it from u. In the Strachey vocabulary, each new
+letter introduces two lists: an Indian-English list and an English-
+Indian list, except that e, f, and g have an English-Indian list only,
+whereas g and z have Indian-English only. The letters j, u, and x
+are lacking.
+Together with the reproduction of the 16 sheets in facsimile that
+follow, 16 pages of transliteration into the current letter forms of
+today are given as keys to facilitate the reading. These are followed
+by a section of classified vocabulary, in which the words of related
+meaning are grouped together.
+
+
+===== PAGE 9 =====
+REPRODUCTION OF THE ORIGINAL STRACHEY VOCABULARY
+OF THE VIRGINIA INDIAN LANGUAGE
+WITH KEYS TO THE SHEETS
+
+
+===== PAGE 10 =====
+Key to sheet 1
+(Title of the Strachey manuscript at the Bodleian Library consisting of the vocabulary)
+A fhort Dictionary, added unto the former Difcourses of the Indian Language
+used within the Chessiopiock Bay; more particularly about the Tract and amongft
+the Inhabitants of the firft Riuer, called by them Powhatan, and by us the
+Kings Riuer wherein as yet our Townes and Fortes are seated.
+By which such who fhall be Imployed thither may know the readyer how to
+confer, and how to truck and Trade with the People.
+
+
+===== PAGE 11 =====
+\
+Sheet 1.
+l.'f;5191^54 22
+
+
+===== PAGE 12 =====
+
+
+===== PAGE 13 =====
+X
+'^ o Gciao
+flJSrntrr'rytC
+/-^""'^"^ i'^,.
+-;-o 6ry<l~ o,i .. ^'
+&*«;
+4 ( .S.-xTSf*"^
+•?r'
+,i.:i
+jr/if <^-^ */'>r
+••"''^''
+,:l X^t^i^
+cWc
+^/funjnecoi'n
+^^\.y ofLci^ l»*in/t^^e9^I't>'"i'^"p"'!^'f'^*^^
+cut S/UIS^'
+'^:^t::Xri^
+^''''^'
+^
+cl« '^i>^^
+l>f -t "zf / 1>
+^ 'J~'J^ll«<^c
+'B
+, .Jf(.C^^^.
+
+
+===== PAGE 14 =====
+Key to sheet 3
+a Bed
+to Beat out w*'' a
+Cudgell
+to Bear Corne into]
+meale J
+to Beat any Ironl
+to an edge J
+to Bend
+Before
+not to Bend
+Behind
+Below
+Beneath
+a Begger
+Better
+a Bird
+B
+Cawwaivuh
+Petaocawin
+1T^ QfrVTiCliOIliCH
+Auntemdum
+Noouefhetum
+vshuccohomen
+vtssetecuttawfuw
+Accongaivwh
+vtcharond
+Sansagwaivwh
+Tanagogwayk
+Noufvmon
+vtshemayn
+Cuttafsamais
+wingutfcaho
+jTlhehip
+JTfhetchenidg
+Cawacheimsa smale Bird or
+Chicken
+i
+a Bird w"' carna-1
+tion colloured \ Alishowcutleis
+wings J
+A Bird like a Lap-^l
+wing collour l tvt , ,
+, ,, > Nonahamshawgray w"'' useth
+the water )
+a Bird called a]
+Divedapper j
+Ofafianticns
+the Bill or Beake
+to Bite
+Mehkewh
+JAmm
+[Nufsaeom
+vfquaufum
+Mahcatawaiuwh
+ofaih
+Nepotatamen
+vmetagwufhowon
+a Bitch
+Black
+Blew
+to Blow any thing
+Blew beades
+Blew berries of tliel
+bignes of grapes \ Accoondew
+very pleasant J
+Blunt
+to make any thing
+Blunt
+Block
+Blynd
+a Bow
+a Bow-string
+/
+wyhwaivwh
+Neihpunfannuwh
+B
+Taccahoac
+Nehpaangvnnu
+Auhtab
+Aupeis
+1 The first mention of tuckahoe bread. With -poans compare the second word of "c(jrn pone."
+a Boat
+a Bottle
+a Board
+to Boile up
+a Bone
+a Boye
+a Box at wch they
+play at a cer-
+tayne kind of
+Game
+the Bobb of the!
+Ginnye wheat [
+w/out Corne J
+Bread
+Bread made of a|
+wote called J
+a Braszer
+a Bridge
+to Broyle or toast
+bread
+to Break a stick
+to Break w"' one
+fingers any
+thing
+to Break w"' strik-
+ing on any thing
+to Break all in
+piece
+to Be broken or
+crackt
+Bright or plaine]
+all over j
+to Bring into the
+Boat
+to Bring againe
+Brasse
+to bruyse any]
+thing small J
+a Brother
+a Brush
+a Bramble or briar
+a Broome
+a Butterfly
+to Burne as if a
+sparke light on
+any
+a Bunch of Grapes
+Aomatau
+Paheewh
+Cutfsotahwooc
+Potopotauktawk
+wufkan
+vfcapess
+Assowpoon
+okiflier
+okinfher
+Appoans
+Taccahoappoans
+'
+Qwunnumfe
+Metucs
+Apetawh poan
+jvnchgucheis
+jcaumelmufhe
+vdefmamum
+[Pafkeaw vdeasta-
+[ hamu
+ketai'owkfuinah
+Perew
+Mulcaufsum
+Paakfetowee
+Patow
+Ofawas
+vnetawvunum
+Nemat
+vnepawahumma
+Cawmdgus
+Tfhekehicawwons
+Manaang-gwas
+Cutchow
+Matowram
+Metucsmarakimins
+
+
+===== PAGE 15 =====
+'3
+'fftciocaivffi
+^t"fl<7!< ijlT' < /ill
+^ j^»^^ <
+ofaik
+j^M.<_//"<? to.kiuooc:
+iMfOF "*- ''**''? <i.^>
+'
+—
+J y
+£;^
+tr^^t pcfnipA po^>
+^<<^ «>*>v*> '-
+—
+—— > •-' <-
+/
+u. 23'VT>o^^^ •^^''/tekfAiratvioo^i
+\lUl'^'"'^\ ^''"^-
+C^ULmr'^'
+Sheet 3.
+
+
+===== PAGE 16 =====
+Key to sheet 4
+c
+Chamange
+Chapant
+Curcye neire
+Commotins
+Cheawanta
+Cuvfmc
+Chippfni
+Chichiquamins
+Camatnige
+Chakafowe
+Cucheneppo
+Cvenepo
+Cheskchamay
+Ceader
+Calme
+to Call on one
+a Canoa or small}
+boat J
+a Can or any such
+like thing to
+drinke in
+a Candle or"\
+gummy stick I
+w*^*" will keepe
+[
+Light j
+a Cap or hatt
+to Carry a thing}
+up and downej
+to Carry a thing]
+betweene twoo J
+to Carry upon 1
+ones showlder /
+to Catch in the]
+mouth as dogs[
+doe J
+a Cat or wild
+beast much big-
+ger and spotted
+black und' the
+belly as a Lu-
+zarne
+Caviare or the Ro
+of Sturgeon
+to Chaw
+Cheine
+a Chaine of Cop-]
+per with long
+[
+linkes J
+Chesnuts
+Cheese or any]
+curded matters
+made from milk]
+a Chamber
+a Child
+a Chest
+a Chicken
+to Chop wood
+a Tobacco bagg
+a Shewe
+I am a cold
+a Turtle
+a Robin red brest
+Sister
+Land or earth
+a kind of grayne to
+eat
+6 in nomber
+a Crack in any
+thing
+a woman
+a woman
+All freinds
+naraak
+Cohqwaivwh
+Otafsapuax
+Aquointan
+ohtamocan
+Ofamintak
+Puttaiquapifson
+Nowwicwafhim
+Necufoagwus
+Ahcokinemun
+Onafcandonien
+OpafTontamen
+'
+Vtchooiiggwai
+Woock
+Tawhtagwonntamen
+Rarenaw
+Tapaantaminais
+Opominins
+Ootun
+vtshecommuc
+Neckaun
+Pacus
+Cawahcheims
+Catchcahamun
+muftie
+a Circle
+a Civet Cat
+Clay
+to Clap ones handes
+the Claw of a Crab
+to Clense a pipe
+to Clense the
+ground and make
+yt fitt for seed ,
+to Cleave or hold}
+fast to a thingj
+to Clymb a tree
+the Clowds
+of
+Mufsetagwaioh
+Attownin
+Pufsagwun
+Pafsahicaan
+Ohtindge
+Jacutteahwoon
+Monafcunnemun
+Auputchahgwctone
+Ahcoufhi
+Mammau
+gwotuwh
+Mammun
+Arrah-
+Matafsan
+Reihcoun
+Nonfsamats
+Pemanataon
+Agwahvfsum
+Mantchoor
+to take hold
+any thing
+Copper
+a Comb
+Cold
+a Cord or small!
+lyne or a thread]
+a Coat of plate
+a Coat ierkin dub-}
+let or ells what/
+to Come being fCamerowath
+spooken famil- \ Caameic
+iarly or hard by [Caumearah
+to Come being fPyak
+spoken a far off { Pyarowah
+to one IPyarah
+to Come in Peintiker
+to Come againe or fOiacpyam
+we will come { Naantuc-ah
+agame
+to Come quicklye
+to Come up
+to Come downe
+to CofTe
+the Cock Crowes
+a Covering or
+mantle made of
+feathers
+a Covering to lay
+upon out
+a Cod fish
+a Cockle
+to Cover one
+a Cob-web
+a Cookold
+a Copper kettle
+a Crab
+a Crane
+a Crack, or Crackt
+a Creek
+a Crowne or oft
+dears haire died
+red
+a Crow
+[ pyautch
+Jvfkepyah
+}Vlkepewh
+Vtacqwowsun
+Neighfawfun
+NufTuccum
+Momnawentfecamo
+Puttawus
+Cawafsun
+fouhshawkowh
+}Vttacomuck
+Ofakefcai
+Ahgwur
+Nuttafsapec
+wimpenton
+Aucutgagwafsun
+Tuttafcuk
+Vfsac
+[Pafkafew
+}Tatumfew
+Meihsutteraflc
+Cutaantaqwapifsun
+Ohawas
+
+
+===== PAGE 17 =====
+CO »< nit'f-K-r
+Cuvfrne
+C--'t-'^ah>'t/<.-
+a y-i-i tiffj>^
+.
+o /r.^ ;.t
+,r^>w<f^ s
+- ^
+....... r.,.,^,,. ...„^
+fr
+"";•';
+-"^f /.'-^r^
+• (
+t/'//'/""^ J/V'""-'"/
+,-, 4f^J **»
+-J/U
+K. i\. If.> ^.yir .yi ...
+Y'"J -
+'
+—
+. c U^ • •<£
+t'rr-ifi --
+i^ «>t>M.<» ^&'..3 /J»^,.
+t <»'.'<• /....^^ /A
+I
+i
+nkihmi'/iJtvA
+Sheet 4.
+gt»^i^
+
+
+===== PAGE 18 =====
+Key to sheet 5
+Crooked okhorime
+to Cry Neighfeum
+to Cut the haire of] Mouiidg
+a mans head
+to Cut any thing
+Curled haire
+a wonians Secret
+Dawba on quire
+a day
+dark
+I dare not
+a deare
+dead or to be dead
+deipe to the mid-
+dle
+deepe ou"' tlie head
+deafe
+to divide a thing
+in half
+the devill
+a dish
+to dive
+a dot
+a dog
+doe so
+to drink to one
+I would drink
+to dry any be tier
+or otherwise
+to be dry or thirsty
+to dresse or pitch a
+boat
+a drum
+a duck
+dust
+dyrt
+to dwell
+a red dve
+J Numinundgum
+Cummundgum
+Vnekifliemun
+Vtchepetaiuwk
+Arorewhmerersk
+/Muttusk
+[Mucofyt
+D
+Warme yo'felf
+fCuttepacus
+IRaioawk
+Pahcunnaioh
+[Necgwu saw
+[Negutahke
+Vttapantam
+Tfepaih
+Tlaqwomoi
+I
+Nuttahcaam
+( Cuppotaiv
+/ Rickewh
+Riapoke
+Outacan
+Poohkewh
+Noungut
+Attemous
+Vtfseneind
+JVnaucopen or Ka-
+1 kopen
+Vgaucopefsan
+I Tfetewh
+/ Gaukenates
+Paougwufsentlawk
+(Ascahamun
+Ahqwohhooc
+Pifcoend
+Nepenfun
+Keishackaivwh
+Nahapuc
+fPohcoons
+\Mataqwiwun
+E
+the Eare of a man
+the Eares of a hare
+or any other
+beast
+to Eate
+I will eate
+rie eate by & by
+Eate w"' me
+the Earth
+the East
+an Eagle
+an Eare of wheat
+an Eare of new
+wheat
+Ebbing water
+an Eele
+an egg
+an Elboe
+E[l]der
+the Element
+Enemy or naught
+Enough
+Entombing
+the Eye
+the Eyes
+Farewell, or the]
+word at parting)
+the Face
+the Fall of the leaf]
+or the Automn J
+the Fall
+to be like to fall
+to Fall downe
+from a tree
+to lett any thing]
+fall
+^
+/
+the Falls at the
+upper end of the
+Kings river
+Meihtawk
+weihtaws
+Mechlin
+Mecher
+Nummechyn
+Mechocufk
+Meihtufsur
+fAfpamun
+lOttawm
+VtchepwoifTonna
+Opatenaiok
+Autowtaoh
+Maucatanatfomcor
+Seifeatuwh
+Afcamuuk
+wovwh
+Meifquail
+Nufsaandg
+Poomy Arrathqwa-
+turoh
+Macherew
+Marapo
+wamat
+Neimbat
+Paianiafum
+Mufkiendguk
+Mufkiendgues
+Anah
+Vfcaentur
+Punfaos
+Ammawfkm
+vdamom
+vdamofun
+Cawefewh
+Raqwa sewh mufhe
+Vtamocahken
+Pa(iuaehowng
+
+
+===== PAGE 19 =====
+c
+7'
+O. ^oo-'"--(J(5<»r-ve^ 7?;t>»-«frt
+lb
+'t>ait^a/i
+irciV —
+—
+w
+3-yU-
+P,fcc.>n-f
+Pohioon-f
+yyjahtatvtti'un .
+^'^.
+^<9 ^-liHif _
+i./v»>r
+"""//'^
+'pet. Ia n-a^''^"
+Cf^ odl
+.'i,^ ^..
+r
+. ^4^.A»i
+/l<tani-e>cani((n
+c
+Sheet 5.
+
+
+===== PAGE 20 =====
+Key to sheet 6
+to be First
+a Father
+a Faune
+Fatt
+a Fart
+a long Feather
+Feathers
+the feathers of an|
+arrowe J
+Feet of a havvke
+Feet by a geiierall]
+name J
+to Feed w"' a
+spoone
+to Fetch some Fier
+Fish
+a Fishhooke
+a small Fish as big
+as a Woach
+the Fingers
+the Fore finger
+the long Finger
+the ring Finger
+the little Finger
+to Fill some to-
+bacco
+Filthy
+the Fins of a Fish
+a fight at fisticuffes
+a fine or small]
+thread J
+the Flame
+Flowing water
+the Flower of the
+apple Maracah
+a Flower of a fine|
+thing J
+to Fly
+a Fly
+Flap
+a Flea
+to Flea any thing
+a Flying Squirrell
+a Fly
+a Fowle in likenes'l
+of a footed!
+w"" a sharpe (
+beak J
+a Fowle like &\
+teale w"" a sharp
+(
+bill like a black-
+(
+bird J
+Nettencrianges
+Nummamuntam
+Nows
+Monattecow
+wiroakawh
+Poket
+Meqwance
+Ahpewk
+Assaconcawh
+Oreingeis
+Mefsets
+Accoqaatamun
+Mefhpataan
+bocotaoh
+Nammais
+Auketuttawh
+wmamaik
+Meteingeies
+Nummeifutteing-
+wah
+Nuttawwutteindg
+Nomgweitut
+Nummeifutteidg
+Binseram Apook
+Moich
+Moiowatt
+wyhcats
+Nummecaxuttenar
+vfcook
+Catzahanzamufhcis
+Tan^mufcamcuwh
+Tfemahcang
+Mufkaiuwh
+Awafsew
+Paugweuwh
+Mowchesoh
+Tfhehaoah
+Nuttagwon
+Pafhenaan
+Aiofsapanyk
+Mowchesoh
+Tfhoegetewh
+a water Fowle in"]
+bignes of a duck
+|
+fine coloured w""!
+a Coppit crownJ
+a Fooll
+Froth
+Frost
+a Friend or the
+principall word
+of kindnes
+my Foot is well
+the Furre of the
+Beast Arrath-
+cune
+I am Full
+to be Full
+Fier
+a Cole of Fier
+a spark of Fire
+to make a fier
+the Fier is out
+ceumeats
+meihteams
+Jwintuc
+1wintuttum
+Peihtoah
+Tacquacat
+Xetah
+fwingan outfse-
+(metfumneir
+wefscanoc
+Negeifp
+Geifpun
+Bocuttaow
+Mahcatois
+fAccecow
+[Pahqwarra
+I
+Socaqwinchemmum
+[Neusakagwan
+Otawiaac Bocotow
+G
+a Garden or plot
+of ground to sow
+corne
+a Garter
+a Gate
+a Garfish
+Give yt me or let]
+me see it
+J
+to Give
+Give me some To-]
+bacco J
+Give me some 1
+water
+j
+Give me some 1
+meat J
+Give me some but-"]
+ter or fat to|
+spread on my (
+bread j
+Give this to the]
+Child J
+Give yt him
+a Girdle I
+Oronacah
+Kifpurracautupus
+Cuppanawk
+Tatamaho
+Tangoa
+JPaatch-ah
+[Pafemeh
+Pafeme vppook
+Mammahe fucqwa
+Aleifhuah-mechen
+Paatchnatinungan
+vdamufcan
+Meifh miroan
+cheffoyowk
+Cumtneifh yoowah
+Nepogwaanfhepi f-
+sun
+
+
+===== PAGE 21 =====
+/; ^* 1^^'-^
+jfsfacOHcatfk
+: Ttlf^UJrttft'-V
+//"xc* "'><
+1.3
+yrtcfV'H^r, <-s
+'if, A-Y<-//riraNic •
+a 0^a^ "/^ff^ 'Thawtea faIf
+t • 'pciriatifu.rra
+Mn tti"*' I" '<ffe."/ lit/
+•f^ ff^'*^ "^ ="^*'
+,^
+ff-ec<^^ j-//ie/ia.>aJi
+Sheet 6,
+ryrc
+
+
+===== PAGE 22 =====
+Key to sheet
+the Girth or \
+leather the [sic] I
+girde their
+|
+middle J
+a Girle
+Girles
+the Gills of aj
+sturgeon or any \
+other Fish J
+Glew or gum that")
+fasteneth on I
+their arrow-
+|
+heads J
+a Glove
+Glorious, smooth]
+or beautifull J
+a Gnat
+Good
+not good or naught
+or sower
+It is good meat
+to goe
+to goe abroad
+to goe along
+to goe downe
+to goe in
+to goe softly
+to goe home
+to goe before
+to goe after
+now lets goe to-
+gether
+the ships goes [sic]
+home
+gone
+not goe up
+God
+a Goose
+a Goosling
+Good morrow, or
+the word of sal-
+utation
+the Ground
+to grow high
+the grisle of a
+strugeon
+Grasse
+Grapes
+a Grapes stone or
+the stone of any
+plumb
+maaugwaoap
+vfquafeins
+vfquafenis
+Wofkeqwus
+Vppeinfaman
+Otemgas
+Mufcaivwh
+wmgaivwh
+Poengwus
+wingan
+Macherewh Kefhe-
+maok, chewwen-
+nowh, Atchetowh.
+Necoondamen
+Ireh
+Paspeen
+Ireh vfcoend
+Cawcawmear
+Afcamanee
+Ireh cuppemta-
+naan
+Vfcomtain
+Vdafemeodaan
+nummacha
+Nepopawmin
+Apahhamundg
+Caumenaun
+Cowichawwotun
+vpponfhun mufli-
+owc
+macntehatemayoa c
+kekenohaivmh
+vfpenh
+rawottonemd
+Kahanqoc
+Marahungoc
+Kencuttemaun
+Pttawin
+Atfetuns
+Cutterewh
+Vfocan
+Mehteqweins
+Marakimmins
+onacaugs caunomel
+a Grayue or
+Crotch
+a Grashopper
+a Grave
+a ground-nut
+a great-deale
+a great waie
+Gynny wheat
+the Gum that
+yssueth out of a
+certaine tree
+called the Vir-
+ginia maple ,
+the Gutts of any
+thing
+a Gull
+a Gust of horro-
+cado
+Rafswocatuwh
+Tatacaunfhewah
+ourcar
+ouhpunnawk
+Moowehick
+Amaiunk
+Netasoon
+PacuiTac
+> Pickewh
+Otakeifheheis
+coiahgwus
+Tohtummocunuum
+H
+Haugueqiiins
+Hawkone
+Hufque
+Hawtoppe
+Hufquiguenatora
+Hufkpemmo
+Poketawes
+Howh weih takon
+neire
+Hawtorinkanufke
+a Hare
+the haire of the
+head
+the haire of a deare
+hard by
+Hard
+a Hand
+to Hang out
+a Hatchet
+an Indian hatchet
+to haue
+I have bene
+a Hawthorne berry
+a Hazell nut
+the head of arrow
+that is round
+the head of an
+arrow
+the head-ake
+Heaven
+a little stone pot
+a Ladle
+b}i and by pr
+quickly
+a bow
+now I understand
+you
+to sow wheat
+I am hungry
+a black fox skin or
+an overgrown
+sables
+wyheutteis
+Mexerfe
+Vfhegwunnuih
+yowhfe
+Efepannawh
+Meihtinge
+Wawapunnah
+Taccahacan
+Tamahaac
+Cunfenagwus
+Nohainwh
+Near Nowwan
+Paangahtuinuns
+Affamowh
+Raputtak
+Kawmclirppaan
+Mounfhagwatowh
+
+
+===== PAGE 23 =====
+^ s
+iJit^t o> I'otrtrvea!* T'^'i
+^, .ln^ev / - >l>^.^\. ^ Aciylf .1 -^
+'
+-• «/./>-// 4f(lute, ft .
+Ji4-,i tfoi:'^ tuC^^ X-'£(oc nUa iiiei
+fS'/rL J r c,u;^...-.iuc-<^trt-^> „.... ^ "••"v^-^-'-
+^ C,p ^v*, ,./,»v//;....,.-jy .'^---" •-'"^' '-<-. '•'- .^
+. ,
+c
+J -/^^
+Z / ' J- ^^ 9lfUA^ma>vh
+T / -' r^ N
+• ^nctkt^y
+^^^..,.^, .t^^ ^^^^^^ ^^,_;^,
+X it- yw*^^*' fe ifinJ,^.
+Sheet 7.
+
+
+===== PAGE 24 =====
+Key to sheet 8
+H
+to Heare
+not to heare
+He
+Hemp
+Hell
+He hath not or
+none
+The height of
+any thing at a
+good groth
+Of a little height
+Hearing
+to hide or cover
+from the rayne
+a Hill of small
+mount
+a Hill or
+mountaine
+Hidden und"" a
+Cloud or over
+cast
+a Howse
+a great howse
+a husband
+a hole
+to make a hole
+a great hole
+the homes of a
+deare
+Hold yt aside
+Hot weather
+how manie
+hungry
+the Husk of their
+wheat
+a hurt or Cut
+to hurt, or a
+thing hurts me
+It hurts my
+legge or my
+leggs ake
+It hurts me not
+or it is hole or
+well
+Ire assuminge
+loughqueme wath
+lake sail apooke
+I myself
+I or you
+the laggs of h* 1
+salvage habite )
+Ice
+Nowwuntamen
+Mata nowwontamen
+yoowah
+weihkippeis
+popogwvfsur
+Tah-mocafewh
+Mangeker
+Tangafvw
+Aumpfvwk
+Cufhe
+Romutton
+Pomotawh
+Reihcahahcoik
+yohacan
+Machacammac
+wiowah
+woor
+Mhocacotamen
+Maangairagwatonu
+wawirak
+Hatacqwoear
+Onofhawocanafsup
+Keis
+Noiateiwk
+Pocuntavhca
+wapewh
+Ahkey
+vwwaap
+Vncgapamuttamen
+netataky
+Mamoindgaky
+Potteracai
+Goe & run quickly
+Let us goe or come
+away
+Light tobacco
+Near
+Nim
+Rafsawans
+oreih
+an Island Mennunahgue
+to Itch Vnethikvtchikuffa
+Certaine phrases put under
+Letter because they begin
+with I.
+Iam lither or lazie
+I am yo'' Friend
+or at yo' com-
+aund
+I care not for yt
+I will not give yt
+I must keep yt or
+I love yt
+I thank yu"
+I have none
+I will goe home
+I must put tobacco]
+in it I
+It stinketh
+I cannot tell
+I have no tobacco
+I will not
+I have no hooes
+I have no hose
+I understand yo»
+not
+I understand yo"
+a little but not
+much
+I love yo"
+yo" loue
+I give yt yo" gratis
+I will come to mor-
+row
+I hurt my Leg
+I have bene
+asleepe
+Mafliawwacat
+Netah
+Netapewh
+Nummafksitamen
+Matacommeir
+Nowamatamen
+Kenah
+Mahmanidgno-
+haivwh
+Nummacha
+Vpacocaheih
+Ahtur
+cairwh
+Mata vppoan
+nonvwh
+Matulh
+Matamawcasu-
+nneh
+Matacawqwro-
+wanneh
+Mataguciiavoroth
+Cuffewh kenneau-
+nten
+mata mechik
+Nouwmais
+Cummomais
+Thacgwenvmme-
+raun
+Neihpyahracas
+vnechacuflionahfa
+Mummaculliene-
+paw
+K
+Kenagh
+Kaygmose
+Kuttchawc
+Komeyhon
+Kowfe
+Kick
+Kemotte
+Komeratimicrc
+quier
+I thank yu"
+a boat
+I burne
+Rayne
+F'ather
+Mother
+Brother
+yu" gave it me.
+
+
+===== PAGE 25 =====
+>?.if.( /r^».»«-,.;,/awf^ .
+J ,.*^»- aW»...,«./>#! »^;-"
+ro t"»^ .n df-bi"./*»•-,
+
+
+===== PAGE 26 =====
+
+
+===== PAGE 27 =====
+.A*^ ^*'* V\** ''' X ^ <% . if *V J
+Ji^. J <?tx.*..V , A/a.- .,./«/, ,^<- /(/
+.h c
+'V" '^ •" .' yt'O/t. >-,. ..<,rA .=..v ^.-Y Jc^hc^/e^aip
+^fU^^ iiU .< ,
+,^^ . ^^. ^ ^^ ^^ ^^
+^^^ ^ ^ . ,y^^^ j^
+>^/^C
+Sheet 9.
+265191—54 23
+
+
+===== PAGE 28 =====
+Key to sheet 10
+M
+Metinge
+Miske
+Mintabuckkain
+Mufkani
+Mufknis
+Mefkewe
+Mettone
+Mepit
+Maratsno
+Mackatahone
+Mefcot
+Mefscate
+Mekense
+Metawce
+Mowhkohafi
+Mafkawhinge
+Monowhaake
+Maquequins
+Makataweygh
+Mattanahayyough
+Matchqueo
+Mangoite
+Mufkffkimmins
+Matchkore
+Mincum quire |
+Mittchm J
+Mattaquenatorath
+Mattaffunutcho-
+oke
+Mahawke
+Meroathachefsam
+Mayance
+Momufcken
+Momnugh
+Moroke
+Makique
+Mufkes
+Mayn
+Matakufke
+Mattekeroth quierl
+Marrapoth quier J
+Mattoth
+Manote
+Mouffomko
+Mufsaue
+Meffetonaause
+Man
+a Mat made of
+Reeds
+a Martern
+a maryed man
+Maneaters
+the marrow of a
+bone
+a Marriner or fea-
+man
+a hand
+Heare
+the Head
+the Forehead
+the eyes
+the nose
+the mouth
+the teeth
+the tongue
+the arme
+the leg
+the Foot
+thenaileof'h^fing"
+& toes
+the eares
+a Fishhooke
+a parrot
+a sward
+small belli
+Pearle
+I have yt not
+a showe
+great
+Strawberries
+a stagge skin
+eate yo"
+I understand yo"
+not
+a small bird of
+divers clours
+a goard
+a young boy
+I haue yt not
+a mole in th* ground
+a Turkey
+Ceader
+snot
+to run
+going in a path
+the Leafe of a prick-
+le pear
+the wylie words
+they haue
+noe
+a basket
+a fquirill
+a beast so called
+a beard
+Nimatewh
+Anansacoon
+Moschwacus
+Nowiowyhwiovvah
+Mussaangegwah
+weimb
+checksow
+M
+a Match
+to make bread
+to make a fpoone
+to make a bed
+to make a dish
+to make a frame or|
+boat J
+to make a graue
+to make a mat
+to make a basket
+meale & Flower
+meale made of 1
+Guynny wheate \
+called
+J
+to melt
+to be mclanchoUyl
+or sad j
+Milke made of
+walnuts
+Milk
+to misse the hole
+a Morter
+a mouth
+the morning or ]
+sun rise (
+the morning is
+faire
+a Moth
+to morrow
+a mother
+a Mulbery
+a Mushell shell
+a Muskrat
+Nmtawook
+Apoanocanosutck
+Ampconominda
+Ouronnemunpeta
+cawwin
+Achehican
+Cowcacunnemun
+Ahtowenn
+Cuttahamunourcar
+chofTunnaaufun
+Mamcotaiheaun
+Rouhcat
+Rowkfewh
+vfketehamun
+PufTepufTactawos
+Mafkihaon
+Powhigwava
+Mutsofi
+Nembabatsoho
+Tuccahooc
+Vttawh
+Mehtoan
+Papasowh
+Pafpafat vfcantewh
+Mohwhawk
+Raiab
+Vnnawh
+Neck
+Apegwas
+Mufkimnis
+Tihecomak
+ofafquws
+Numerothe quire
+Neine
+Nifsakan
+Nisake
+Nepaufche
+Nepunche ncire
+Nehapper
+Nuppawe
+Nechan
+Netap
+Noweanalhfoun
+Nekut
+Ninge
+NufTaugh
+Nufchawus
+Ninge poke
+N
+yo"" companie
+my self
+a reed
+a Cane
+the Sun
+I am dead
+sit downe
+Sleepe
+a Child
+my deare Freind
+I haue forgotteri
+1 in nomber
+2 in nomber
+3 in nomber
+8 in nomber
+20 in nomber
+
+
+===== PAGE 29 =====
+3fi(t
+>r .;^
+UJim
+•< h'-^ ey^
+JilCC-.f
+7 /e ^v ^<«> ""J
+. " / 'Juipaja^vh
+t^nr-ui^ Og(I«.,..l,^<«*S
+/"'-^7^'
+,yLt^ P^-yitA i^ranhnA
+UmX
+4,-» »^-<**« -Pi .
+Sheet 10.
+
+
+===== PAGE 30 =====
+Key to sheet 11
+N
+Noringeamind 1
+baketaw /
+^^"^^ "1^ ^''^ ^^^
+Nehapper kupper Sit further
+Namafke
+Nameche
+Nethkeon
+Neputts
+Noraughtoan
+Nahayhough
+The Nailes of my
+hand
+Naked
+a Napkiii or any
+lynnen cloth
+Naught broken or
+Crackt
+the neck of any
+thing
+a nett
+Next
+a Nettle
+the nest of a bird
+Neare by or next
+hand
+New moone
+Night
+No or nay
+\ Fish of anv kind
+the nose
+the tooth
+put on yo"' hat
+I haue it.
+wyhchaudg
+Nepowwer
+MattafTai"^
+(Perewh
+Nufgwoik
+Auffas
+Vtakyk
+Mayhfaan
+wahchefao
+Patewh
+Suckimma
+Tapacoh
+Reihcawh
+Matah
+tall [sic]
+RawwanudNone
+the noise of a
+peece or Fall of^ Penim
+a tree
+No more
+I will drink no ]
+more /
+the North
+a nut like a small
+acroh, good
+meat
+Tawhs
+NutfTegwacup
+vtcheiks
+cliechinquamins
+o
+Opykerough a Brent, a fowle like
+a goofe
+Otcyquenimin to teare or rent any
+thing
+Ockquetath a taufell of a
+gofhauke
+Oughtamangoyth a Tobacco bag
+Owanough who hath this
+Ouxe a Fox
+Ockquins a watchet collored
+bird
+o
+Opomens
+Ough
+Oughrath
+Owaugh
+an oare
+an Oke tree
+Oysters
+an Old man
+an old woman
+to open the dore
+J?
+to open ones eyes
+to open any thing
+an otter or rather^
+a Beaver J
+an Otter
+Only one
+Out or yt is pluckt]
+out J
+Out away gett]
+yo" gone j
+to overset or a
+boat to turne
+keel up
+an Owle
+Chefnuts
+yt is well
+far off
+an egg
+Tfhemacaus
+Poawamindg
+Cauwaih
+Ramerumuwh
+Vtumpfeis
+Tennecatowee
+Rafficokear
+Vdapungwaoen
+Raragwunnemun
+Cudotunnohaans
+Pohkewh
+Cuttak
+Naautucahnecut
+Aumpoffaioh
+Key
+Cotapeffeaw
+Quangatarask
+Poketawes
+Peketawas
+Peache
+Peminah
+Peymmata
+Pafquehamon
+Powtowhone
+boketmoc
+Pugguy
+Petacqueth
+Pokorance
+Pokin bokeyough
+Pamyack
+Pocosack
+Pichanins
+Pafkamath
+Poughcone
+wheat
+beans
+fetch or bring
+a rope
+thread
+to Cut
+blow the fire with
+yo'' mouth
+Afhes
+Thunder
+a minerall stone
+to dive under Avat"'
+a goard
+a gun
+an excellent plumb
+Mulberries
+the red paint or dye
+
+
+===== PAGE 31 =====
+^:..
+/Zi- ya-j^^ir-
+^n>.>a/i(e i^
+/it-Ita i^t/cj
+^< it^'fr ^-lt.tjjCi.a.
+o
+OyC>ne>h' ,
+<^5
+^iS ,vut
+'pea U'A>n>'in^
+.'4-C-l /) Ju>C^
+-p
+-'AT
+Q^VA-nOKOft fl.'j^.'o S'c*4f^ (-^U
+fo/l^ sauce
+f,i-v'*^
+ff°^ . ^ .. . ^
+Sheet 11.
+
+
+===== PAGE 32 =====
+Key to sheet 12
+Peyeugh
+Pickuts
+Potawaiigh
+Parance
+Pafpene
+Pifquaofi
+Pafkonath
+Penouge jeron
+Pocohaak
+Pattihquapifson
+Pocontath
+a Parrat
+to Paint black
+to paint red
+Perle
+Perle mushell sells
+Peas
+a Peice of a pot or
+a pot seard
+a Piece of bread
+a Pestle
+to Play on a pipe
+a Tobacco pipe
+the pipe is fowle
+the pipe is stopt
+the Pipe is broken
+a Pin
+to Pinch
+a Pigeon
+a wood-pidigoon
+a pillow or to lay
+under ones
+head
+to pisse
+a Pike
+Porredge or
+broath
+a Post
+a Polcat
+a Pot
+to powre out water
+to powre in water
+a porpoyse
+the Pox
+a playftor
+a Plomb ftone
+a Plomb very De-
+litious when yt
+is ripe
+returning
+the gum we hold
+ballome
+a Porpois
+5 in nomber
+to walk about
+a duck
+the gold fpark in
+the fand
+stone
+a botkin or aule
+a hat
+a girdle
+Maffacamwindg
+Nummatchqwran
+Numerathguran
+pocoon
+Matacawiak
+Vfafgwoik
+Offantamens
+Ruinmafnwendg
+Rowrooi Appones
+Pocohaac
+Pawpecoon
+vppocano
+Vppocanomoiee
+Opoteyawh
+Vdei heawunsppo-
+con
+Pohcohaac
+Nepokehanaan
+Towaigwoins
+Quanonah
+Ahqwafs
+shekyn
+kyhtoroon
+Noumpgwaam
+Meihtusmufheis
+Cuttenamuwhwa
+Aucagwins
+Qwatchacuwhcaan
+Vfowcunnemun
+Potawoc
+Nummanemennaus
+Nuttacoondah
+Maquafcawnomel
+Pufheninis
+a Plaife
+to play at any
+game
+to fillip w"* ones]
+finger j
+the privities or |
+secret of a man J
+Prayer
+to come to praier
+a Pumpeon
+a Purse
+to Pull
+to pull yt out
+to put yt in
+to put on any
+thing
+to put off any
+thing
+Purple
+to put out a
+candle
+to pull one downe
+Que Quoy
+Que Quoy ternin
+quire
+Rapanta
+Rungah
+Rokayhook
+Rickalhone
+Rokohamin
+Reconacke
+Rofsoun
+Riapoke
+Riahosicke
+Rekafque
+Raw
+Rayne
+a Raynebow
+a Rattle such as
+they use in
+their Cere-
+monies made
+of a gourd
+a Ratt
+a Reed
+Rent or torne
+a River
+Keifkis
+Mamantu
+Terracaun
+Vnepafkmtecahbon
+Pocohaac
+Maunumommaan
+Pyahtomaaoh
+Mahcawg
+Vttamamquoih
+Nummaumon
+Necantough
+Penider
+Puttohiqwofur
+Puffaqwonneindg
+ourcrewh
+Vtahtahamun
+Cuttaqwocum
+Q
+what is this
+what is yo'' name
+R
+venison
+all kind of fuet
+an otter
+a Comb
+parched corne
+ground fmale
+a Tobacco bag
+the wynd
+to morrow
+the devill
+a knife
+Ascunmewh
+Camrowafi
+Qwannacut
+'
+chingawwonauk
+Aotawk
+Nehfaakah
+Tuttafewh
+yocaauta
+
+
+===== PAGE 33 =====
+fpCMCUOf
+^ —^
+.^.p7C:-/j^ ^l^'<y-''j
+^'.v;.y4^,.U.
+/fu "< •««•.f^«^ f^' tan
+/yoi.m< t-aHia'^fa"
+a 'piece yi- ^'.w'w- '^ovi'vocc /£///'-•>«<>
+-- >
+.
+/ -- i-'/'pocniiC
+u. yL>^<>»4«»^i-'rr ^li-ih Cecil.'
+y
+^
+;^ iyOOf't-6-'^'^/ivoMtr- ^^*v<^4:fAaCn$oiiraa>,
+p/e>m ><V«V *>JO It**.***^
+'}
+ksjf^ii
+Sheet 12.
+
+
+===== PAGE 34 =====
+
+
+===== PAGE 35 =====
+^
+^
+-3
+^,^.. '^^.^uca. f-/'-^> ,^^/oj.,f/c>.
+f*tA^f
+a prvi
+^ r>rv/>.^ o't. ^^^^ i^^w^W^rt^ ^^4.^;^^-,e- Jicfsaiiiki^
+^vu)>"''^Jra.<H.
+S
+Sheet 13.
+
+
+===== PAGE 36 =====
+Key to sheet 14
+the spring
+to speak alowd
+to speake softly
+a squirrell
+to looke a squint
+a sturgeon
+a sturgeon
+a string vide
+leather
+a stone
+a little stone
+to steale
+a stake
+a stalke
+the stalke of
+gynney or
+Virginia wheat
+to strike
+to strike wh a
+sword
+stockings
+a Starr
+to stir the pot
+to stretch ones
+selfe
+the stones of any
+male thing
+to goe to stoole or
+to ease ones self
+a stoole to situpon
+a straunger
+strong
+to step or goe up
+the stinging of a
+snake
+to strike tier
+to stinck
+the Sun
+Sun rise vide
+morning
+Sun set
+to sup or to haue
+bene at supper
+Summer
+to suck
+to sweat
+to swym
+to Swell
+a swan
+to swallow
+to sweepe
+Suttekepacatuwh
+I
+Memmowchick
+[taywuffan
+Kemaantun
+Muffanek
+Permgwah
+Cuppotoon
+Shacahocaii
+Manansk
+Coinmotooah
+wepattaha
+Mehtacouc
+Thepahcoon
+NopafTmgwahwn
+[Nepacamaii
+Cawgweawans
+Attaugwaffowk
+Vmmatahamu
+>VfThebowfkeom
+'
+Vtshowwah
+Vunuifkittuwh
+Apahpufa
+Vttafantaflawinh
+Towangh
+Accowoh
+fVtagwoong
+Bocataoh kok
+Auutas
+Kefhowfe
+Quunfewh
+'Meatfun
+Cowwotaioh
+Anowwonnir
+Vebowhafs
+Toofkean
+Cunnaqueis
+wopufTouc
+Quautamu
+Tfekehica
+to swymm as a
+pece of wood or
+feather on the
+water
+Tanggo
+Towaughe
+Tanre
+Taniokin
+Tauofin
+Tangeguath
+Tamohake
+Take it
+to take up
+to take up wh a
+spoone
+to take off
+to take one prison
+to take tobacco
+to take heed
+a target
+the taile of any
+thing
+tawny
+to tell one any
+thing
+to throw a thing)
+away
+thunder
+a thigh
+these
+this
+the thonib
+the throat
+three
+three hundred
+a thornebark
+to tickle one
+tobacco
+a tobacco pipe
+a tobacco bag
+the Tobacco is
+good
+the Tobacco is
+naught
+a Towne
+the traine of a bird
+a tree
+a greene tree
+a wallnut tree
+a Turtle
+a sea Turtle
+a turd
+>Puppaqvvahauns
+Let me se it.
+a Crome [sic]
+small or little
+to swym
+a toole [sic]
+a fur like a sables
+a hatchett
+Vntowli
+Vummaumum
+Anutfahamun
+raffunnemun
+Necakeffutoii
+Nepfleaupooc
+Amwoir
+Amun whock
+wufhaqwun
+Nufcahfaiyam
+Cutterah
+Apacet
+Vmdgtuppauk
+Wyngwaus
+yowhs
+yowhk
+Vketeqwaivttemdg
+Vegwantaak
+Nus
+NufwohcufTannack
+Aumboick
+Kekitchuchun
+vhpooc
+vhpoocaii
+vttamaucoih
+Winyutfcovhpooc
+Kefkemaikpooc
+Muffavan
+Otanneis
+Meihtus
+vfqwatanaik
+Affunnomeindg
+accomodemik
+Torocuppewk
+Moich
+
+
+===== PAGE 37 =====
+'I
+s
+ritvi.A
+« ^t<«V^ //t>..
+Snncahcraii
+h jU^if '.^ .'. //v . 1 c*** /ireno. ca»i
+(^s. /.ri^ hJbc-nt ^tyey/'i'^^ij'c-
+^/-jyi-.y- yo •-^^'' c, /i
+CS-*^^ ^V^ V^^ i.M'V-;;/ .
+14. M Ivnce^(^
+h. t^ c..» .^.^ C^.H,ta/t
+f^
+^oyui^cfa. ton
+Shcct 14.
+^Oick
+
+
+===== PAGE 38 =====
+Key to sheet 15
+a Turkey
+a Turkey Cock
+to turne a Cakel
+upon the coalesj
+twyned threed
+to tye ormake fast
+any thing
+Monanaw
+Ofpanno
+CufkeefTmun
+Pemuckweranemd
+Veroance
+vndoth
+vfquion
+vmpfemen apooke
+vmpfquoth
+vaugh
+a vayne
+a Village
+Virginia
+vnderneath
+to unclose hands
+I understand well
+I understand not
+a king or great man
+take yt
+an arrow
+drinck tobacco
+the moone
+a word of wonder
+asefcut
+kaafun
+Tfenakcommacah
+vtfhemaynd
+Penumun
+Kennehautows
+Matakennownto-
+rowh
+wapapammdgas
+w
+weyans
+wekowehees
+wapin
+wifotonoans
+winpe
+woufsicket
+woughtathe
+weracke
+waufcan
+wingapo
+wingan
+winganoufe
+a walnut
+to wash the face
+the leane of any
+thing
+a hare
+a ftab
+a beard
+marrow
+a running brook
+to fwym
+a bone
+my beloved friend
+Good
+very good
+AflTinenuns
+Kefeigwaan
+w
+to wash the hands
+to wash any thing
+water
+a wart
+to warme one
+yt is warme or hot]
+weather J
+to waken
+the waves of the]
+sea J
+to walke
+weake
+weary
+weede
+to weede
+welcome or the
+word of greet-
+ing
+Yt is well or ]
+ynough /
+a well
+the west
+wett
+what is yo"" name
+what is his name
+what is my name
+what is this, or 1
+what call yo" that)
+when
+where haue yo" \
+bene J
+to whet
+whelpes
+wheat
+a wheat Plomb
+white
+to whistell
+a whiting
+the small wind
+a great wind
+wide or great
+a wife
+a wing
+to wipe ones nose
+to winck
+a widgin
+Kefeiremdcher
+ketffetawuh
+Suckciuahah
+Meihkeis
+Bahtanomun
+Chingiffum
+Vnamuh
+Agwafkawwaus
+Pawpawmear
+Keffhemauc
+Cuttoveen
+Attafqwus
+Nummawh
+wingapo
+chamah
+Notas
+wamattvwh
+Ohcawoos
+Attagwaffanna
+Neppe
+Cacutterewindg
+Reir
+Cacutterewmdg
+yowk
+cacuttorewindg
+Kear
+Caqwaih
+cacuttewaas j^owk
+Tanoo chink
+Tannowaam
+Nufleffeqwus
+Aphohomins
+Powttoas
+Affeffein
+Opaivwh
+Qweifgwefufi
+Vtteitsouk
+Rowhfunnvwh
+Mahgwaih
+Rummotaihwh
+Noungafa
+Vttacomas
+Cheifcunnemun
+Jufpungwaren
+Ponomaw s
+
+
+===== PAGE 39 =====
+fv H«A«vd> <M 0> a-ftif-rj ^ /r //
+y/am-ov
+^.iPr»«^ Ci.i.ttdVi.'<n
+t*- uV 4^*-
+y-yV <U ll^i/l^^ -^.
+(^
+/tvenaekj
+a Ja.hs-
+U'p-i\\>»jL- y^^'i^ nj'T-^u una
+^i^ tvnju-mi I'IV z
+^/^i«r<>»»«T<-
+Sheet 15.
+(K'U»<^*'
+
+
+===== PAGE 40 =====
+Key to sheet 16
+w
+Will you goe home
+winter
+I will goe home
+to wind about
+a woman
+a womans breast
+a woman with child
+a woman queen
+an old woman
+a little worme or]
+magot j
+wood
+wood all along
+a wound
+the world
+a woolfe
+to wrastle
+to wrap orwind up
+any thing
+Cunnacha
+Puppoan noh
+Nunnuacha
+Pafqwurraws
+Cutffenepo
+otaue
+Powevwh
+Wiransqua
+Tumpfeis
+Mowfah
+Muftieis
+Macheis-ni-ourewh
+Nepocuttokean
+Pamahfaivmh
+Naantam
+Mamarenarotun
+Nuwweifqwaput
+yeahawkan
+yeokanta
+yeough
+to yawne or gape
+yellow
+yesterday
+yea or yes
+yonder or far off
+younger
+you
+a howse
+a Rver
+4 in number
+Tamatuttener
+Ouflawenk
+Ofayoh
+Cuppeh
+yoaruwh
+wefums
+kear
+Zanckone to sneese
+
+
+===== PAGE 41 =====
+L
+C* 'C^
+'pCivfiit-'/i
+^it'i^^^l^ '"T"/^/^
+i ^t<£
+^ /
+yf 7
+7&i
+y
+-rVl > lASC//< /^/Vi' t>
+I.
+V'
+75>.
+Sheet 16.
+
+
+===== PAGE 42 =====
+
+
+===== PAGE 43 =====
+Anthrop. Pap.
+No. 46] ORIGINAL STRACHEY VOCABULARY—HARRINGTON 197
+SEMANTICALLY CLASSIFIED LISTS OF STRACHEY'S VOCABULARY
+The assembling in lists of words of related meaning taken from
+Strachey is a new departure. Strachey's vocabulary is found to
+cover practically all terms of the language, and the writer has grouped
+these terms in lists according to related meaning, so that they will
+stand out more clearly to the reader. After each entry the number
+is given of the vocabulary sheet from which the entry is taken. The
+spellings by Strachey frequently vary and are to be regarded as
+approximations.
+PHENOMENA
+WORLD
+Pamahfaivmh, world, 16
+Cheipfni, earth, land, 9
+Afpamun, earth, 5
+Ottawn, earth, 5
+Pttawin, the ground, 7
+Racaioh, sand, 13
+Rorautton, mound, 8
+Pomotawh, hill, mountain, 8
+Shacahocan, stone, 14
+Mamansk, little stone, 14
+Sawwone, salt, 13
+Matafsan, copper, 4
+ofawas, brass, literally the yellow one, 3
+Mennumahgue, island, 14
+MufTavan, town, 14
+Kaafun, village, 15
+Suckquohana, water, 13
+yeokanta, river, 16
+Meihsutterafk, creek, 4
+woufsicket, a running brook, 15
+yapam, ocean, 13
+Peihtoah, foam, 6
+Komeyhon, rain, 8
+Coan, snow, 13
+oreih, ice, 8
+Mamman, cloud, 4
+Arrahgwotuwh, cloud, 4
+Quannacut, rainbow, 11
+Rarafcaun, air, 2
+Arrokoth, sky, 2
+Kykeythamots, wind, 9
+Rofsoun, wind, 11
+Rowhfunnvwh, breeze, 15
+Mahgwaih, great wind, 15
+ASTRONOMT
+Kefhowfe, sun, 14
+Nepaufche, sun, 10
+vmpfquoth, moon, 15
+Suckimma, new moon, 11
+Attaugwaflbwk, star, 14
+Boketawgh, fire, 2
+Mohcatois, fire coal, 6
+Accecow, spark, 6
+Pahqwaua, spark, 6
+Kekepemgwah, smoke, 15
+Pungue, ashes, 2
+Kecuttannowas, lightning, 9
+Petacqueth, thunder, 11
+CARDINAL DIRECTIONS
+vtcheiks, north, 11
+PLANT CORPOREAL
+Meihtus, tree, 14
+Mehteqweins, grass, 7
+wapapammdgar, vine, 15
+265191—54 24
+Maaugwipacus, leaf, 9
+Amenacarac, seed, 13
+onacaugs caunomen, fruit-pit, 7
+Pickewh, pitch of the Virginia maple, 7
+Vtchapoc, root, 13
+
+
+===== PAGE 44 =====
+198 BUREAU OF AMERICAN ETHNOLOGY [Bull, 157
+PLANTS
+Accondews, blueberry, 3
+Apooke, tobacco, 2
+Amkoming, poisonous flower the fruit
+of which is a kind of black cherry, 2
+Anaskomens, acorn, 2
+Afearafqwus, seaweed, 13
+AffefTein, wheat plum, 15
+Afinimins, walnut, 15
+Aumboik, thornbark, 14
+Cakefqus, rush, 13
+Caumdgus, bramble, 3
+chechinquamins, evidently chinquapin
+oak, 11
+Efkawwafcus, sedge, 13
+Mahawke, gourd, 10
+Maracah, native plant called apple, 2
+Marakimins, wild grape, 7
+Matakuflce, pricklypear leaf, 10. [This
+is the northeasternmost term for
+pricklypear which is on record.]
+Mauhfaan, nettle sp., 11
+Meroke, juniper, 10
+Mufkimnis, mulberry, 10
+Mulksflcimmins, strawberry, 10
+Nehfaakah, reed, 11
+Opomens, chestnut, 11
+Pickuts, balsam, 11
+Peccataas, bean, 2
+PufTaqwenibunanieindg, rose bush, 13
+weihkippe is, wild hemp, 8
+Paangahtumuns, hazel, 7
+Pichanins, plum sp., 11
+[The corn plant and its parts evidently
+have a large vocabulary in the Vir-
+ginia Indian language, of which
+vocabulary Strachey furnishes traces.]
+PacafTac, corn plant, 7. Strachey
+gives Peccataas for bean and Poke-
+taws for wheat.
+Pocuntavhca, corn ear husk, 8
+okiflier, corn ear cob (?), 3
+Rokohamin, ground-up parched corn, 11
+yfketehamun, corn meal, 10
+ANIMAL CORPOREAL
+wufkan, bone, 3
+weineb, marrow, 10
+Ahpewk, feather, 6
+Mequance, long feather, 6
+wawirak, horn, 11
+Owaugh, egg, 11
+Mmabuckkam, head, 10
+Mexerfe, head hair, 7
+Mufkam, forehead, 10
+Mufkiendg, eye, 5
+Mefkewe, nose, 10
+Makigue, mucus, 10
+Metawce, ear, 10
+Mettone, mouth, 10
+Mehkewh, beak, 3
+Meratsno, tongue, 10
+Mepit, tooth, 10
+Naffhaih, lip, 9
+weihfatonowans, beard, 2
+Vegwantaak, throat, 15
+Mutson, milk, 10
+Otakeifheheis, bowels, 7
+Pocohaac, penis, 11. [A little earlier
+Strachey gives this word as meaning
+awl, pin.]
+Vtohowwah, testicles, 14
+Muttusk, vulva, 5
+wufhaqwun, tail, 14
+Mackatahone, arm, 10
+Meifquan, elbow, 14
+Meihtinge, hand, 7
+Mefcot, leg, foot, 10
+Apome, thigh, 2
+Mekense, digit nail, 10
+
+
+===== PAGE 45 =====
+Antheop. Pap.
+No. 46] ORIGINAL STRACHEY VOCABULARY—^HARRINGTON 199
+ANIMALS
+GENEBAL
+Perhaps there is no general word for
+animal.
+LOW FORMS
+Mowfah, worm, maggot, 16
+CRUSTACEANS AND SPIDERS
+Assahampehooke, lobster, 2
+Tuttafcuk, crab, 4
+Ohtindge, crab claw, 4
+Strachey does not give the word for
+spider, but gives Nuttafsapec, cob-
+web, 4.
+TICKS AND INSECTS
+Metacun, louse, 9
+Nuttaqwon, flea, 6. (Apparently the
+same word as the word for louse.)
+Poengwus, gnat, 7
+Mowchesoh, housefly, 6
+Tatacaunfhewah, grasshopper, 7
+Manaanggwas, butterfly, 3
+Mohwhawk, moth, 10
+Pomahaum, snail sp., 13
+Tfhecomak, mussel shell, 10
+Vfafgwoik, pearl mussel shell, 11
+Cauaih, oyster, 11
+Fish in general is called Nammais, fish,
+6. Woskeqwus, gill, 7. Wyhcats,
+fin, 6. Wooch, roe, hterally eggs, 4.
+MufTaangegwah, maneater shark, 10
+Afcamuuk, eel, 5
+Rahtaios, lamprey, 9
+Cuppotoon, sturgeon, 14
+Vttacomuck, cod, 4
+Tatamaho, gar, 6
+kyhtoroon, pike, 11
+AMPmBUNS
+No name of an amphibian is recorded
+by Strachey.
+LIZARDS
+Vtacafkis, lizard sp., 9
+SNAKES
+Reihtafcook, adder, 2. The last syl-
+lable evidently means snake in
+general.
+TURTLES
+Commotins, turtle sp., 4
+accomodemfk, turtle sp., 14
+Torocuppewk, sea turtle, 14
+BIRDS
+Tfhehip, bird in general, 3
+Duck Group
+Pifcoend, duck sp., 5
+Ponomaws, widgeon, 15
+Rowgwawh, sheldrake, 13
+Goose Group
+Kahanqoc, goose sp., 7
+Marahungoc, goose sp., 7
+Kahunge, goose sp., 9
+Opykerough, brant, 11
+wopuffouc, swan, 14
+Hawk Group
+Tatacaumevan, sparrow hawk, 13
+Opatenaiok, eagle, 5
+Owl Group
+Quangatarask, owl sp., 11
+Turkey Group
+Momnugh, turkey, 10.
+Ofpanno, turkey cock, 15.
+Pigeon Group
+Towaigwoins, pigeon, 11
+Quanonah, wood pigeon, 11
+Crow Group
+Ohawas, crow, 4
+Cuckoo Group
+wimpenton, cuckoo, 14
+RMn Group
+Cheawanta, robin, 4
+Crane Group
+Vfsac, crane, 4
+Gun Group
+coiahgwus, gull sp., 7
+
+
+===== PAGE 46 =====
+200 BUREAU OF AMERICAN ETHNOLOGY [Bull. 157
+Parrot Group
+Mafkawhinge, parrot sp., 10. Evidently
+the Carolina parakeet is meant, it
+being the only bird of the parrot
+group in the region.
+Marten Oroup
+Moschwacus, marten, 10
+Insufficiently Identified
+Ahshowcutteis, bird sp. having red
+under the wings, 3
+Ofafianticus, a bird like a divedapper, 3
+ceumeats, bird sp., 6
+meihteams, bird sp., 6
+Mattaffunutchooke, bird sp., 10
+Ockquins, bird sp., 11
+Tfhoegetewh, bird sp., 6
+MAMMALS
+Marsupial Oroup
+Aposoum, opossum, 2
+Cetacean Oroup
+Potawaugh, porpoise, 11
+DuT Group
+Rapanta, vension, 11.
+Monattocow, fawn, 6.
+Squirrel Oroup
+Mouffomko, ground squirrel, 10
+Aiofsapanyk, flying squirrel, 6
+Rat Group
+Aotawk, rat sp., 11
+RaMnt Group
+wyheutteis, hare, 7
+Beaver Group
+Pohkewh, beaver, 11
+Cuitak, otter, 11
+ofafquws, muskrat, 10
+Bear
+Mefseionaause, bear, 10
+Dog Group
+Attemoos, dog, 5
+Neantam, wolf, 16
+Ouxe, fox, 11
+Cat Oroup
+Vttacawoi, mountain lion, 9
+Mole Oroup
+Momufiken, mole, 10
+Skunk Oroup
+Attowrin, skunk, 4
+Raccoon
+Arathkone, raccoon, 2
+Inadequately Described
+vtchoonggway, mammal sp., 4
+AGE-SEX
+Neckaun, child, 9
+Vfcapess, boy, 3
+Vfquafeins, girl, 7
+Nimatewh, man, 10
+Cucheneppo, woman, 10
+Ramerumuwh, old man, 11
+Vtumpfeis, old woman, 11
+STATUS
+weroance, chief, 9 weransqua, woman chief, 16
+
+
+===== PAGE 47 =====
+Anthrop. Pap.
+No. 46] ORIGINAL STRACHEY VOCABULARY—HARRINGTON 201
+RELATIONSHIP TERMS
+Nows, father, 6
+Kiok, mother, 8
+Amofens, daughter, 2
+PATKUAL
+Ariqwoffac, aunt, 2
+FRATERNAL
+Nemat, brother, 3
+Covfmuc, sister, 3
+MARITAL
+Noungafs, wife, 15
+RELIGION
+Ahone, God, 2 [Uterally, strong]
+Rawottonemd, God, 7
+Mounfhagwatowh, heaven, 7
+Riapoke, Devil, 5
+Popogwvfsur, hell, 8
+Netflietsunh, soul, 13
+PERSONAL NAMES
+Nanamachavwk, name of the Roanoke chief, 9
+PLACE NAMES
+Chessiopiock, Chesapeake Bay, 1
+Paquachowng, waterfalls at the upper end of the Kings [James] River, 5
+Tfenakcommacah, Virginia, 15
+TRIBE NAMES
+[The race name for white man appears in the song recorded by Strachey.]
+MATERIAL CULTURE TERMS
+Adornment. Cutaantaquapifsun, head-
+dress of red-dyed deer hair, 4.
+Awl. Pocohaac, awl, 2; Pocohaac, penis,
+12. Compare perhaps the name
+Pocahontas, said to mean "the little
+wanton."
+Ball. Aitowf, ball, 2
+Broom. Tfhekehicawwons, broom, 3
+Canoe. Aquintayne, canoe, 2. Aquin-
+tayne manggoy, large ship, 2.
+Aomtaii, canoe, 3. Mufsawwus, boat.
+Kayqmose, boat, 3, 8. Tfemacaus,
+paddle, 11.
+Clothing. Puttaiquapifson, hat, 11.
+Pocontath, girdle, 13. Puttamus,
+feather mantle, 5.
+Pestle. Pocohaac, 12. (Written same
+as word for awl.)
+Arrowhead, Raputtak.
+Cordage. Pemanataon, string, 4. Pemi-
+nah, rope. Peymmata, thread, 11.
+Food. Apones, bread. Taccahoap-
+poans, tuckahoe bread.
+Furniture. Cawwaivwh, bed, 3. Petoa-
+cawin, bed, 3. Ahquafs, pillow, 12.
+House, yeahawkan, house, 16.
+Implements. Pamifac, knife, 9. Reka-
+fque, knife, 12. Tamohake, hatchet,
+14. Cunfenagwus, Indian hatchet.
+Mat. Ananson, rush mat, 7.
+Musical instrument. Ahqwohhoac,
+drum, 5.
+Net. Auffas, net [a fish net is probably
+meant.]
+Rattle, chingawwonauk, gourd rattle.
+Bag. Porafap, bag. vttamancoih, bag.
+Tackle. Auketuttawh, fishhook, 6.
+Mowhkohan, fishhook, 10.
+Tobacco paraphernalia. Apokan, to-
+bacco pipe, 2. Chamange, Reconacke,
+tobacco bag, 4.
+Utensil. Aucutgagwafsun, copper ket-
+tle, 4. Outakan, dish, 5. Pocohaac,
+pestle, 12.
+Walking stick. Nisake, walking stick,
+10.
+Weapons. Auhtab, bow, 5. Auppies,
+bowstring, 5. Asqweowan, arrow, 2.
+Raputtak, arrowhead. Pocosack, gun,
+rifle, 11.
+AILMENTS
+Headache, Kawmclirppaan, 7.
+
+
+===== PAGE 48 =====
+202 BUREAU OF AMERICAN ETHNOLOGY [Bdll. 157]
+NUMERALS
+Strachey records the numerals from 1 to 10, inclusive, with the exception of the
+numeral for 7, which he does not give. The numeral for 20 is also given by
+Strachey, and here. (The numerals are in italics and the numbers of the sheets
+in roman.)
+Nekut, 1, 10
+Ninge, 2, 10
+Nuffaugh, S, 10
+yeough, J^, 16
+Parance, 5, 13
+Comatnige, 6, 4
+Nufchawus, 8, 10
+Kykeytawc, 9, 9
+Koike, 10,%
+Ninge poke, 20, 10
+LITERATURE CITED
+Bergmann, Gustav von. Editor.
+1789. Das Gebeth des Herrn ... in Hundert Zwey und FtJnfzig Sprachen,
+p. 65. Ruein (Livland).
+Brinton, Daniel G., and Anthony, Albert Seqaqkind.
+1888. A Lenap6-English dictionary. Philadelphia.
+"C. C."
+1858. Dalrymple's short vocabulary of the language of the Pamunkey.
+Historical Magazine, 1st ser. London.
+Dalrymple, [Reverend.] See "C. C."
+Hale, Edward E.
+1860. [Notes by.] In Proc. Amer. Antiq. Soc, April 25, pp. 38-41, 42-47.
+Siebert, Frank T.
+1931. Certain proto-Algonquian consonant clusters. Language, vol. 17,
+No. 4.
+Smith, John.
+1612. A map of Virginia. . . . Oxford.
+Strachey, William.
+1849. Historic of travaile into Virginia Britannia. . . . Hakluyt Society.
+London.

@@ -1,0 +1,39 @@
+import csv
+from pathlib import Path
+
+def generate_verbs():
+    verbs = [
+        ("waŋyáŋka", "to see, to look at", "v", "Core Corpus", "Public Domain", "SLO", "Core verb"),
+        ("slolyé", "to know, to understand", "v", "Core Corpus", "Public Domain", "SLO", "Core verb"),
+        ("yaté", "to eat", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("mná", "to gather, to collect", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("hiyo", "go or come to fetch", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("kiktá", "arise, get up", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("iyų́ɣa", "to ask", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("hí", "to arrive here, to come", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("gli", "to arrive home, to return here", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("inážiŋ", "to stand up, to halt", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("yúha", "to have, to hold, to possess", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("tmá", "to cut with a knife, to carve", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("kaksá", "to chop off, to sever", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("kapá", "to surpass, to excel", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("yawá", "to read, to count", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("čhíŋ", "to want, to desire", "v", "Action Corpus", "Public Domain", "SLO", "Action baseline"),
+        ("lowáŋ", "to sing", "v", "Action Corpus", "Public Domain", "SLO", "Expanded vocabulary"),
+        ("wačhí", "to dance", "v", "Action Corpus", "Public Domain", "SLO", "Expanded vocabulary"),
+        ("alóksohą", "put under the arm, carry under", "v", "Action Corpus", "Public Domain", "SLO", "Expanded vocabulary"),
+        ("pahí", "to gather together", "v", "Action Corpus", "Public Domain", "SLO", "Expanded vocabulary"),
+        ("gliha", "to return walking", "v", "Action Corpus", "Public Domain", "SLO", "Expanded vocabulary")
+    ]
+    
+    path = Path("lakota_verbs.csv")
+    with path.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["lakota_word", "english_translation", "word_class", "source", "license", "orthography", "notes", "audio_url"])
+        for item in verbs:
+            writer.writerow([item[0], item[1], item[2], item[3], item[4], item[5], item[6], ""])
+            
+    print(f"[SUCCESS] Generated {len(verbs)} verbs into 'lakota_verbs.csv'.")
+
+if __name__ == "__main__":
+    generate_verbs()
