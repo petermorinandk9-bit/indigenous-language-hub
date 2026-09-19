@@ -252,7 +252,7 @@ if selected_region == PLACEHOLDER:
     st.markdown(
         """
         <div class="mission-box">
-          <p>The Indigenous Language Hub was built by Divergent Engines, a technical solutions company based in Houghton, Michigan. It has one purpose: preserve the languages of our people. Too much has already been lost or taken. We keep what can still be gathered from public-domain records and community-verified lexicons.</p>
+          <p>The Indigenous Language Hub was built by Divergent Engines, a technical solutions company based in Houghton, Michigan. It has one purpose: preserve the languages of our people. Too much has already been lost or taken. What can still be gathered from public-domain records and community-verified lexicons you will find here.</p>
           <p>This app is free. It will stay free. No subscription. No lock on the words. No paywall ever.</p>
           <p>Choose a language in the sidebar to open its lexicon. You will find links to living speakers and a complete glossary for every language.</p>
         </div>
