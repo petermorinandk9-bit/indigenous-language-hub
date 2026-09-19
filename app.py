@@ -434,7 +434,7 @@ with mobile_tab:
     )
     deployment_url = os.environ.get(
         "HUB_PUBLIC_URL",
-        "https://divergent-engines-hub.streamlit.app",
+        "https://divergent-engines-language-translator.streamlit.app",
     )
     st.code(deployment_url)
     st.image(qr_png_bytes(deployment_url), caption="Scan to open the Hub", width=250)
