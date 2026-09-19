@@ -237,7 +237,7 @@ if selected_region == PLACEHOLDER:
     st.markdown(
         """
         <div class="mission-box">
-          <p>The language hub was built by Divergent Engines, a technical solutions company founded by Peter Morin, A descendent of the KBIC tribe, born and raised in Baraga, Michigan. This hub was made in the hopes of preserving the languages of our people.
+          <p>The Indigineous Language Hub was built by Divergent Engines, a technical solutions company founded by Peter Morin, A descendent of the KBIC tribe, born and raised in Baraga, Michigan. This hub was made in the hopes of preserving the languages of our people.
           Too much has already been lost or taken, we must preserve our language.
           What can still be gathered from public-domain records and community-verified lexicons you will find here. </p>
           <p>This app is free. It will stay free. No subscription. No lock on the words. No paywall ever.</p>
