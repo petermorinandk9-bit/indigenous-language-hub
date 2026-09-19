@@ -63,6 +63,21 @@ st.markdown(
 st.markdown('<div class="hero-kicker">Public-domain and community lexicons</div>', unsafe_allow_html=True)
 st.title("Indigenous Language Hub")
 
+# ---------------------------------------------------------
+# Architecture Fix: Moved QR Generator up the execution stack 
+# so it can be called on the landing page without a NameError.
+# ---------------------------------------------------------
+def qr_png_bytes(url: str) -> bytes:
+    qr = qrcode.QRCode(box_size=6, border=2)
+    qr.add_data(url)
+    qr.make(fit=True)
+    img = qr.make_image(fill_color="#2C2C2C", back_color="#F9F8F4")
+    if hasattr(img, "get_image"):
+        img = img.get_image()
+    buf = io.BytesIO()
+    img.save(buf, format="PNG")
+    return buf.getvalue()
+
 region_map = {
     "Anishinaabemowin (Ojibwe)": {
         "db": "ojibwe_dictionary.db",
@@ -229,7 +244,7 @@ def render_sources(expanded=False):
         )
         for name, credit in SOURCES:
             st.markdown(f"- **{name}** — {credit}")
-        st.caption("Built by Divergent Engines / Peter Morin. The app is free and stays free.")
+        st.caption("Built by Divergent Engines. The app is free and stays free.")
         st.markdown("</div>", unsafe_allow_html=True)
 
 
@@ -237,15 +252,24 @@ if selected_region == PLACEHOLDER:
     st.markdown(
         """
         <div class="mission-box">
-          <p>The Indigineous Language Hub was built by Divergent Engines, a technical solutions company founded by Peter Morin, A descendent of the KBIC tribe, born and raised in Baraga, Michigan. This hub was made in the hopes of preserving the languages of our people.
-          Too much has already been lost or taken, we must preserve our language.
-          What can still be gathered from public-domain records and community-verified lexicons you will find here. </p>
+          <p>The Indigenous Language Hub was built by Divergent Engines, a technical solutions company based in Houghton, Michigan. It has one purpose: preserve the languages of our people. Too much has already been lost or taken. We keep what can still be gathered from public-domain records and community-verified lexicons.</p>
           <p>This app is free. It will stay free. No subscription. No lock on the words. No paywall ever.</p>
-          <p>Choose a language in the sidebar to open its lexicon, you will also find links to the living speakers, and a complete glossary for every language. Under the mobile access tab, scan the QR code or use the link to add it to your phone as an app. </p>
+          <p>Choose a language in the sidebar to open its lexicon. You will find links to living speakers and a complete glossary for every language. Under Mobile Access, scan the QR code or use the link to add the Hub to your phone as an app.</p>
         </div>
         """,
         unsafe_allow_html=True,
     )
+    
+    st.subheader("Mobile Access")
+    st.write("Scan the QR code or use the link below to add the Hub directly to your phone as a native app.")
+    deployment_url = os.environ.get(
+        "HUB_PUBLIC_URL",
+        "https://divergent-engines-language-translator.streamlit.app",
+    )
+    st.code(deployment_url)
+    st.image(qr_png_bytes(deployment_url), caption="Scan to open the Hub", width=250)
+    
+    st.markdown("<br>", unsafe_allow_html=True)
     render_sources(expanded=False)
     st.stop()
 
@@ -358,18 +382,6 @@ def display_frame(df):
     if drop:
         view = view.drop(columns=drop)
     return view
-
-
-def qr_png_bytes(url: str) -> bytes:
-    qr = qrcode.QRCode(box_size=6, border=2)
-    qr.add_data(url)
-    qr.make(fit=True)
-    img = qr.make_image(fill_color="#2C2C2C", back_color="#F9F8F4")
-    if hasattr(img, "get_image"):
-        img = img.get_image()
-    buf = io.BytesIO()
-    img.save(buf, format="PNG")
-    return buf.getvalue()
 
 
 search_tab, glossary_tab, mobile_tab, sources_tab = st.tabs(
