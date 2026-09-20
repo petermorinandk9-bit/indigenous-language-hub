@@ -141,6 +141,24 @@ region_map = {
             "Rudes’s modern dictionary and not a classroom standard of the Nation."
         ),
     },
+    "Kanien’kéha (Mohawk)": {
+        "db": "mohawk_dictionary.db",
+        "col": "mohawk_word",
+        "short": "Kanien’kéha",
+        "audio_sites": [
+            ("FirstVoices Kanien’kéha", "https://www.firstvoices.com/kanienkeha-mohawk-en/"),
+        ],
+        "blurb": (
+            "Kanien’kéha is an Iroquoian language — kin to Oneida, Onondaga, Cayuga, "
+            "Seneca, and Tuscarora. Its homelands sit along the Mohawk River and, after "
+            "the wars of the seventeenth and eighteenth centuries, at Kahnawà:ke, "
+            "Kanehsatà:ke, Akwesasne, Tyendinaga, Wahta, and Six Nations. Communities "
+            "still teach and speak it. This module is Jean-André Cuoq’s 1882 Lexique "
+            "de la langue iroquoise, a public-domain missionary root list from Oka / "
+            "Kanehsatà:ke, written in a 19th-century spelling. It is a historical shelf, "
+            "not a modern classroom standard of the Nation, and not a living talking dictionary."
+        ),
+    },
     "Chahta (Choctaw)": {
         "db": "choctaw_dictionary.db",
         "col": "choctaw_word",
@@ -213,6 +231,7 @@ SOURCES = [
     ("Anishinaabemowin (historical)", "Frederic Baraga, A Dictionary of the Otchipwe Language (1878). Public domain."),
     ("Powhatan", "Captain John Smith (1612/1624) and William Strachey, A Dictionarie of the Indian Language (1612, pub. 1849). Public domain colonial records."),
     ("Tuscarora", "William Chew vocabulary, written out by Rev. Gilbert Rockwood, in Henry R. Schoolcraft, Notes on the Iroquois (1846). Public domain. Not the copyrighted Rudes 1999 dictionary."),
+    ("Kanien’kéha (Mohawk)", "J. A. Cuoq, Lexique de la langue iroquoise (Montréal, 1882). Public domain. French–Iroquois root lexicon from the Lake of Two Mountains / Kanehsatà:ke mission. Not a modern Nation dictionary. Living audio: FirstVoices Kanien’kéha."),
     ("Chahta", "Cyrus Byington, A Dictionary of the Choctaw Language, ed. Swanton & Halbert, BAE Bulletin 46 (1915). Public domain. Living audio belongs to the Mississippi Band of Choctaw Indians and the Choctaw Nation of Oklahoma."),
     ("Mvskoke", "R. M. Loughridge and David M. Hodge, English and Muskokee Dictionary (1890). Public domain."),
     ("Massachusett / Natick", "James Hammond Trumbull, Natick Dictionary, BAE Bulletin 25 (1903), drawn from John Eliot’s 1663 Bible. Public domain. Living reclamation: Wôpanâak Language Reclamation Project."),
@@ -252,7 +271,7 @@ if selected_region == PLACEHOLDER:
     st.markdown(
         """
         <div class="mission-box">
-          <p>The Indigenous Language Hub was built by Divergent Engines, a technical solutions company based in Houghton, Michigan. It has one purpose: preserve the languages of our people. Too much has already been lost or taken. What can still be gathered from public-domain records and community-verified lexicons you will find here.</p>
+          <p>The Indigenous Language Hub was built by Divergent Engines, a technical solutions company based in Baraga, Michigan. It has one purpose: preserve the languages of our people. Too much has already been lost or taken. What can still be gathered from public-domain records and community-verified lexicons you will find here.</p>
           <p>This app is free. It will stay free. No subscription. No lock on the words. No paywall ever.</p>
           <p>Choose a language in the sidebar to open its lexicon. You will find links to living speakers and a complete glossary for every language.</p>
         </div>
