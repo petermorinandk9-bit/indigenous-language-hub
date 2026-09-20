@@ -105,7 +105,7 @@ region_map = {
             "as the modern module, written in a 19th-century missionary spelling. "
             "It covers Chippewa, Ottawa, and Potawatomi country around the Great Lakes. "
             "It is here to be used as a historical shelf next to the living Ojibwe People's Dictionary; "
-            "We do not treat the two orthographies as one list."
+            "The two orthographies are not treated as one list."
         ),
     },
     "Powhatan (Mid-Atlantic)": {
@@ -138,7 +138,7 @@ region_map = {
             "walked north and became the sixth nation of the Haudenosaunee, in what "
             "is now New York and Ontario. This module is William Chew’s 1846 "
             "vocabulary printed by Schoolcraft: a short historical list, not Blair "
-            "Rudes’s modern dictionary and not a classroom standard of the Nation."
+            "Rudes’s modern dictionary."
         ),
     },
     "Kanien’kéha (Mohawk)": {
@@ -155,8 +155,7 @@ region_map = {
             "Kanehsatà:ke, Akwesasne, Tyendinaga, Wahta, and Six Nations. Communities "
             "still teach and speak it. This module is Jean-André Cuoq’s 1882 Lexique "
             "de la langue iroquoise, a public-domain missionary root list from Oka / "
-            "Kanehsatà:ke, written in a 19th-century spelling. It is a historical shelf, "
-            "not a modern classroom standard of the Nation, and not a living talking dictionary."
+            "Kanehsatà:ke, written in a 19th-century spelling."
         ),
     },
     "Chahta (Choctaw)": {
@@ -189,8 +188,7 @@ region_map = {
             "Georgia, then west to Indian Territory after removal. It is the close "
             "sister of Seminole and a cousin of Chahta and Chickasaw. Town names, "
             "hymns, and the old mission press at Tullahassee kept it on the page. "
-            "This module is Loughridge and Hodge’s 1890 lexicon, not a modern classroom "
-            "standard of the Muscogee (Creek) Nation."
+            "This module is Loughridge and Hodge’s 1890 lexicon."
         ),
     },
     "Massachusett / Natick": {
@@ -206,7 +204,7 @@ region_map = {
             "was printed in this tongue at Cambridge; praying towns at Natick and "
             "Punkapoag kept it on the page. The spoken language later receded; Wôpanâak "
             "reclamation now works from that same written spine. This module is the "
-            "historical Natick lexicon, not a modern classroom standard."
+            "historical Natick lexicon."
         ),
     },
     "Lenape (Delaware)": {
